@@ -1,0 +1,5 @@
+folium==0.12.1.post1
+geopandas==0.6.1
+pandas @ file:///C:/ci/pandas_1641461312795/work
+streamlit==1.7.0
+streamlit-folium==0.6.2
